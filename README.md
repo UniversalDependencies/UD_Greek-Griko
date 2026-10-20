@@ -35,7 +35,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Markantonatou, Stella; Pinna, Emanuela; Bompolas, Stavros; Lekakou, Maria; Quer, Josep; Stamou, Vivian
+Contributors: Markantonatou, Stella; Pinna, Emanuela; Bompolas, Stavros; Lekakou, Maria; Quer, Josep
 Contributing: here
 Contact: stiliani.markantonatou@gmail.com
 ===============================================================================
