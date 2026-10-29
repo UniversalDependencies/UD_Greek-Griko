@@ -678,26 +678,25 @@
 13	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = Stomeo-O-petì-tu-ria_5
-# text = I kèccia ipe : “ Ivò è nna kamo tria petìa me to petì tu ria
+# text = I kèccia ipe : “ Ivò ènna kamo tria petìa me to petì tu ria
 1	I	o	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	kèccia	keccio	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
 3	ipe	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	:	:	PUNCT	_	_	3	punct	_	_
-5	“	“	PUNCT	_	_	9	punct	_	_
-6	Ivò	ivò	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
-7	è	è	AUX	_	ExtPos=AUX|VerbType=Mod	9	aux	_	_
-8	nna	na	SCONJ	_	_	7	fixed	_	_
-9	kamo	kanno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
-10	tria	tris	NUM	_	Case=Acc|Gender=Neut|NumType=Card	11	nummod	_	_
-11	petìa	petì	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	9	obj	_	_
-12	me	me	ADP	_	_	14	case	_	_
-13	to	o	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	_	_
-14	petì	petì	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obl	_	_
-15	tu	o	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-16	ria	ria	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
+5	“	“	PUNCT	_	_	8	punct	_	_
+6	Ivò	ivò	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+7	ènna	ènna	AUX	_	VerbType=Mod	8	aux	_	_
+8	kamo	kanno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+9	tria	tris	NUM	_	Case=Acc|Gender=Neut|NumType=Card	10	nummod	_	_
+10	petìa	petì	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	8	obj	_	_
+11	me	me	ADP	_	_	13	case	_	_
+12	to	o	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	det	_	_
+13	petì	petì	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	_
+14	tu	o	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	ria	ria	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
 
 # sent_id = Stomeo-O-petì-tu-ria_6
-# text = ce cino mi tto tseri pos ta kanno ce depòi è nna me piài ” .
+# text = ce cino mi tto tseri pos ta kanno ce depòi ènna me piài ” .
 1	ce	ce	CCONJ	_	_	5	cc	_	_
 2	cino	cino	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	nsubj	_	_
 3	mi	mi	ADV	_	Polarity=Neg	5	advmod	_	_
@@ -706,14 +705,13 @@
 6	pos	pos	ADV	_	PronType=Int	8	advmod	_	_
 7	ta	ivò	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	8	obj	_	_
 8	kanno	kanno	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	_
-9	ce	ce	CCONJ	_	_	14	cc	_	_
-10	depòi	depòi	ADV	_	_	14	advmod	_	_
-11	è	è	AUX	_	ExtPos=AUX|VerbType=Mod	14	aux	_	_
-12	nna	na	SCONJ	_	_	11	fixed	_	_
-13	me	ivò	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	14	obj	_	_
-14	piài	pianno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	_
-15	”	”	PUNCT	_	_	5	punct	_	_
-16	.	.	PUNCT	_	_	5	punct	_	_
+9	ce	ce	CCONJ	_	_	13	cc	_	_
+10	depòi	depòi	ADV	_	_	13	advmod	_	_
+11	ènna	ènna	AUX	_	VerbType=Mod	13	aux	_	_
+12	me	ivò	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	obj	_	_
+13	piài	pianno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	_
+14	”	”	PUNCT	_	_	5	punct	_	_
+15	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = Stomeo-O-petì-tu-ria_7
 # text = Iavìkane i fate ce tes fatètsane .
@@ -858,25 +856,23 @@
 12	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = Stomeo-O-petì-tu-ria_16
-# text = “ Ce ‘sù è nna pì’ , ce ‘sù è nna mu pì’ " , elle cino .
-1	“	“	PUNCT	_	_	6	punct	_	_
-2	Ce	ce	CCONJ	_	_	6	cc	_	_
-3	‘sù	isù	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
-4	è	è	AUX	_	ExtPos=AUX|VerbType=Mod	6	aux	_	_
-5	nna	na	SCONJ	_	_	4	fixed	_	_
-6	pì’	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	16	ccomp	_	_
-7	,	,	PUNCT	_	_	13	punct	_	_
-8	ce	ce	CCONJ	_	_	13	cc	_	_
-9	‘sù	isù	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	_
-10	è	è	AUX	_	ExtPos=AUX|VerbType=Mod	13	aux	_	_
-11	nna	na	SCONJ	_	_	10	fixed	_	_
-12	mu	ivò	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	13	iobj	_	_
-13	pì’	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
-14	"	"	PUNCT	_	_	6	punct	_	_
-15	,	,	PUNCT	_	_	16	punct	_	_
-16	elle	leo	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-17	cino	cino	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	16	nsubj	_	_
-18	.	.	PUNCT	_	_	16	punct	_	_
+# text = “ Ce ‘sù ènna pì’ , ce ‘sù ènna mu pì’ " , elle cino .
+1	“	“	PUNCT	_	_	5	punct	_	_
+2	Ce	ce	CCONJ	_	_	5	cc	_	_
+3	‘sù	isù	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+4	ènna	ènna	AUX	_	VerbType=Mod	5	aux	_	_
+5	pì’	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	14	ccomp	_	_
+6	,	,	PUNCT	_	_	11	punct	_	_
+7	ce	ce	CCONJ	_	_	11	cc	_	_
+8	‘sù	isù	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	_
+9	ènna	ènna	AUX	_	VerbType=Mod	11	aux	_	_
+10	mu	ivò	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	11	iobj	_	_
+11	pì’	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+12	"	"	PUNCT	_	_	5	punct	_	_
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	elle	leo	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+15	cino	cino	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	14	nsubj	_	_
+16	.	.	PUNCT	_	_	14	punct	_	_
 
 # sent_id = Stomeo-O-petì-tu-ria_17
 # text = Isa’ sfortsata na tu kuntètsi tikanè .
@@ -1063,7 +1059,6 @@
 
 # sent_id = Stomeo-T'afitaci_9
 # text = I mana , atteχèḍḍa , anćìgnase na piài abbìlo , sekkòmu ka tis iχe apetànonta o andra .
-# validated_by = emanuela.pinna
 1	I	o	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	mana	mana	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
 3	,	,	PUNCT	_	_	4	punct	_	_
@@ -1141,7 +1136,7 @@
 15	:	:	PUNCT	_	_	9	punct	_	_
 
 # sent_id = Stomeo-T'afitaci_14
-# text = " Kristè mu , pè mmu 'sù pos è pp' è nna kamo maneχèḍḍa mu ! " .
+# text = " Kristè mu , pè mmu 'sù pos è pp' ènna kamo maneχèḍḍa mu ! " .
 1	"	"	PUNCT	_	_	5	punct	_	_
 2	Kristè	Kristò	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	_
 3	mu	mu	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	_
@@ -1151,15 +1146,14 @@
 7	'sù	ivò	PRON	_	Case=Voc|Number=Sing|Person=2|PronType=Prs	5	vocative	_	_
 8	pos	pos	ADV	_	PronType=Int	5	ccomp	_	_
 9	è	ime	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
-10	pp'	pu	SCONJ	_	_	13	mark	_	_
-11	è	è	AUX	_	ExtPos=AUX|VerbType=Mod	13	aux	_	_
-12	nna	na	SCONJ	_	_	11	fixed	_	_
-13	kamo	kanno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	csubj	_	_
-14	maneχèḍḍa	manechuddhi	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	13	xcomp	_	_
-15	mu	mu	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	14	nmod	_	_
-16	!	!	PUNCT	_	_	5	punct	_	_
-17	"	"	PUNCT	_	_	5	punct	_	_
-18	.	.	PUNCT	_	_	5	punct	_	_
+10	pp'	pu	SCONJ	_	_	12	mark	_	_
+11	ènna	ènna	AUX	_	VerbType=Mod	12	aux	_	_
+12	kamo	kanno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	csubj	_	_
+13	maneχèḍḍa	manechuddhi	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	12	xcomp	_	_
+14	mu	mu	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	nmod	_	_
+15	!	!	PUNCT	_	_	5	punct	_	_
+16	"	"	PUNCT	_	_	5	punct	_	_
+17	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = Stomeo-T'afitaci_15
 # text = Mian imèra ipe : " Ma , fio na pao na noso dio làχana " .
