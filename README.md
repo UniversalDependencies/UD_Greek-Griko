@@ -50,9 +50,10 @@ Bompolas, S., Pinna, E., Quer, J., Lekakou, M., & Markantonatou, S. (2026). [Str
 
 # Changelog
 
-* 2026-10-29 v2.19
+* 2026-10-29 v2.18
   * Added the test set comprising 100 annotated sentences.
-
+* 2025-05-15 v2.16
+  * Initial release in Universal Dependencies.
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
