@@ -420,7 +420,7 @@
 11	ton	o	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	aderfò	aderfò	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	_
 13	ce	ce	CCONJ	_	_	18	cc	_	_
-14	este	stèo	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	cop	_	_
+14	este	steo	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	cop	_	_
 15	'mpì	ampì	ADP	_	ExtPos=ADP	18	case	_	_
 16	s	es	ADP	_	_	15	fixed	_	_
 17	ti'	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
@@ -482,7 +482,7 @@
 4	ce	ce	CCONJ	_	_	5	cc	_	_
 5	a’	afinno	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
 6	mme	evò	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	_
-7	stein	stèo	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	xcomp	_	_
+7	stein	steo	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	xcomp	_	_
 8	,	,	PUNCT	_	_	11	punct	_	_
 9	àrtena	àrtena	ADV	_	_	11	advmod	_	_
 10	'en	de	PART	_	Polarity=Neg	11	advmod	_	_
