@@ -1,0 +1,1589 @@
+# sent_id = Palumbo-Tale-1_1
+# text = io' mia forà ce ion ena' ria ce mia regina ce icha' mia' sula kiatera .
+# text_en = There was a time and there were a king and a queen and they had only one daughter.
+1	io'	ime	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	_
+2	mia	ena	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	forà	forà	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+4	ce	ce	CCONJ	_	_	7	cc	_	_
+5	ion	ime	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+6	ena'	ena	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	ria	ria	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	_
+8	ce	ce	CCONJ	_	_	10	cc	_	_
+9	mia	ena	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	regina	regina	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	conj	_	_
+11	ce	ce	CCONJ	_	_	12	cc	_	_
+12	icha'	echo	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
+13	mia'	ena	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+14	sula	sulo	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	15	det	_	_
+15	kiatera	kiatera	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Palumbo-Tale-1_2
+# text = c' ion òria sentsa fina , tusi kiatera , c' i' kratusa' poddhì kara .
+# text_en = And she was beautiful without end, this girl, and they kept her very loved.
+1	c'	ce	CCONJ	_	_	3	cc	_	_
+2	ion	ime	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	òria	òrio	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+4	sentsa	sentsa	ADP	_	_	5	case	_	_
+5	fina	fina	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	tusi	tuso	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
+8	kiatera	kiatera	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	c'	ce	CCONJ	_	_	12	cc	_	_
+11	i'	evò	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+12	kratusa'	kratò	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
+13	poddhì	poddhì	ADV	_	_	14	advmod	_	_
+14	kara	karo	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	12	xcomp	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Palumbo-Tale-1_3
+# text = mian a tes foreve , enneke panu s ti' làmmia m' i' serva .
+# text_en = One of these times, she went up the terrace with the maid.
+1	mian	ena	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	6	obl	_	_
+2	a	apù	ADP	_	_	4	case	_	_
+3	tes	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	foreve	forà	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	1	nmod	_	_
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	enneke	anevenno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	panu	panu	ADP	_	ExtPos=ADP	10	case	_	_
+8	s	es	ADP	_	_	7	fixed	_	_
+9	ti'	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	làmmia	làmmia	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	_
+11	m'	me	ADP	_	_	13	case	_	_
+12	i'	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	serva	serva	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	_
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Palumbo-Tale-1_4
+# text = pianni ce diaìkane e fta fate .
+# text_en = The seven fairies took and arrived.
+1	pianni	pianno	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	0	root	_	_
+2	ce	ce	CCONJ	_	_	3	cc	_	_
+3	diaìkane	diavenno	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+4	e	o	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+5	fta	fta	NUM	_	Gender=Fem|NumType=Card	6	nummod	_	_
+6	fate	fata	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Palumbo-Tale-1_5
+# text = ìpane : Oh , ti en òria isi kiatera !
+# text_en = They said: Oh, how beautiful is this girl!
+1	ìpane	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	Oh	oh	INTJ	_	_	1	ccomp	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	ti	ti	ADV	_	PronType=Int	7	advmod	_	_
+6	en	ime	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
+7	òria	òrio	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	conj	_	_
+8	isi	ciso	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
+9	kiatera	kiatera	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+10	!	!	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Palumbo-Tale-1_6
+# text = ti fato ti' dìome ? ìpane .
+# text_en = Which spell are we giving to her? They said.
+1	ti	tis	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	2	det	_	_
+2	fato	fato	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
+3	ti'	evò	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
+4	dìome	dinno	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+6	ìpane	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Palumbo-Tale-1_7
+# text = ipe e fata Ercina , e mali : arte i' dìome ena' fato ole posses ìmesta .
+# text_en = The fairy Ercina, the old one, said: Now we give her a spell, how many we are.
+1	ipe	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	e	o	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	fata	fata	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
+4	Ercina	Ercina	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	3	appos	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	e	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	mali	mea	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	appos	_	_
+8	:	:	PUNCT	_	_	1	punct	_	_
+9	arte	arte	ADV	_	_	11	advmod	_	_
+10	i'	evò	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	iobj	_	_
+11	dìome	dinno	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+12	ena'	ena	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	13	det	_	_
+13	fato	fato	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	11	obj	_	_
+14	ole	olo	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Tot	11	nsubj	_	_
+15	posses	posso	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	16	nsubj	_	_
+16	ìmesta	ime	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl:relcl	_	_
+17	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Palumbo-Tale-1_8
+# text = i' dòkane ena' fato : mpena i' torì o ijo , na vresì ètimi apù ton ijo .
+# text_en = They gave her a spell: as soon as the sun sees her, that she find herself pregnant by the sun.
+1	i'	evò	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
+2	dòkane	dinno	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ena'	ena	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+4	fato	fato	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
+5	:	:	PUNCT	_	_	2	punct	_	_
+6	mpena	mpena	SCONJ	_	_	8	mark	_	_
+7	i'	evò	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	torì	torò	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	_
+9	o	o	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	ijo	ijo	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+11	,	,	PUNCT	_	_	8	punct	_	_
+12	na	na	SCONJ	_	_	13	mark	_	_
+13	vresì	vrisko	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	ccomp	_	_
+14	ètimi	ètimo	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	13	xcomp	_	_
+15	apù	apù	ADP	_	_	17	case	_	_
+16	ton	o	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	ijo	ijo	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	14	nmod	_	_
+18	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Palumbo-Tale-1_9
+# text = tue kateka' pu' cianu ce pirtan essu .
+# text_en = They went down from upstairs and went inside.
+1	tue	tuo	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	2	nsubj	_	_
+2	kateka'	katevenno	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	pu'	apù	ADP	_	_	4	case	_	_
+4	cianu	cianu	ADV	_	_	2	advmod	_	_
+5	ce	ce	CCONJ	_	_	6	cc	_	_
+6	pirtan	pao	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+7	essu	essu	ADV	_	_	6	advmod	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Palumbo-Tale-1_10
+# text = e serva pirte klèonta es ti' màna tti :
+# text_en = The maid went crying to her mother: I would like to tell you one thing, she said.
+1	e	o	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	serva	serva	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	pirte	pao	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	klèonta	kleo	VERB	_	Aspect=Imp|VerbForm=Conv|Voice=Act	3	advcl	_	_
+5	es	es	ADP	_	_	7	case	_	_
+6	ti'	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	màna	mana	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	_
+8	tti	mu	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod	_	_
+9	:	:	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Palumbo-Tale-1_11
+# text = ìtela na su po ena' praman , ipe .
+# text_en = The maid went crying to her mother: I would like to tell you one thing, she said.
+1	ìtela	telo	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	8	ccomp	_	_
+2	na	na	SCONJ	_	_	4	mark	_	_
+3	su	evò	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	4	iobj	_	_
+4	po	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	xcomp	_	_
+5	ena'	ena	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
+6	praman	prama	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
+7	,	,	PUNCT	_	_	1	punct	_	_
+8	ipe	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = Palumbo-Tale-1_12
+# text = ce pes to ! ipe cini .
+# text_en = And tell it!  She said.
+1	ce	ce	CCONJ	_	_	2	cc	_	_
+2	pes	leo	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	_
+3	to	evò	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+4	!	!	PUNCT	_	_	2	punct	_	_
+5	ipe	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	cini	cino	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	5	nsubj	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Palumbo-Tale-1_13
+# text = echi tuo ce tùonna m' i' kiatèra ssu , ipe .
+# text_en = There is this and this one with your daughter, she said.
+1	echi	echo	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	ccomp	_	_
+2	tuo	tuo	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	1	obj	_	_
+3	ce	ce	CCONJ	_	_	4	cc	_	_
+4	tùonna	tùonna	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	2	conj	_	_
+5	m'	me	ADP	_	_	7	case	_	_
+6	i'	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	kiatèra	kiatera	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obl	_	_
+8	ssu	mu	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	7	nmod	_	_
+9	,	,	PUNCT	_	_	1	punct	_	_
+10	ipe	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = Palumbo-Tale-1_14
+# text = arte pu is to tù 'pe , nsìgnase na klafsi , e mara mana .
+# text_en = Now that she told her this, she started to cry, the poor mother.
+1	arte	arte	ADV	_	ExtPos=SCONJ	6	advcl	_	_
+2	pu	pu	SCONJ	_	_	1	fixed	_	_
+3	is	evò	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	iobj	_	_
+4	to	evò	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+5	tù	evò	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	expl	_	_
+6	'pe	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	nsìgnase	nsignò	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	na	na	SCONJ	_	_	10	mark	_	_
+10	klafsi	kleo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	xcomp	_	_
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	e	o	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+13	mara	maro	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	14	amod	_	_
+14	mana	mana	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+15	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = Palumbo-Tale-1_15
+# text = in vàlane e' mia' kàmbara , itti' kiatera , c' i' klìsane .
+# text_en = They put her in one room, this girl, and they locked it.
+1	in	evò	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
+2	vàlane	vaddho	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	e'	es	ADP	_	_	5	case	_	_
+4	mia'	ena	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	kàmbara	kàmbara	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	itti'	ciso	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
+8	kiatera	kiatera	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	c'	ce	CCONJ	_	_	12	cc	_	_
+11	i'	evò	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+12	klìsane	klinno	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Palumbo-Tale-1_16
+# text = nsignasa' na viddhìsune ole tes karasse pu iche 's tes porte .
+# text_en = They started to cover all the holes that were at the doors.
+1	nsignasa'	nsignò	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	na	na	SCONJ	_	_	3	mark	_	_
+3	viddhìsune	viddhinno	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	xcomp	_	_
+4	ole	olo	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Tot	6	det	_	_
+5	tes	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	karasse	karassa	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	3	obj	_	_
+7	pu	pu	PRON	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Rel	8	obj	_	_
+8	iche	echo	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
+9	's	es	ADP	_	_	11	case	_	_
+10	tes	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	porte	porta	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	8	obl	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Palumbo-Tale-1_17
+# text = nsomma , 'cessu este cini , skura .
+# text_en = In sum, she was inside,  in the dark.
+1	nsomma	nsomma	ADV	_	_	3	discourse	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	'cessu	ecessu	ADV	_	_	0	root	_	_
+4	este	steo	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	_
+5	cini	cino	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	skura	skuro	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	5	amod	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Palumbo-Tale-1_18
+# text = iche on ghiardino tu ria , iche ena' pikuli , c' ìbbie petonta .
+# text_en = There was the garden of the king, there was a bird, and it was flying.
+1	iche	echo	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	on	o	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ghiardino	ghiardino	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
+4	tu	o	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	ria	ria	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	iche	echo	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+8	ena'	ena	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	9	det	_	_
+9	pikuli	pikuli	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	c'	ce	CCONJ	_	_	12	cc	_	_
+12	ìbbie	pao	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
+13	petonta	petào	VERB	_	Aspect=Imp|VerbForm=Conv|Voice=Act	12	xcomp	_	_
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Palumbo-Tale-1_19
+# text = epai zafi 's ti' làstra 'tti ce èkame na pesi mia' stofseddha .
+# text_en = It goes hits against the window and it made a small piece fall.
+1	epai	pao	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	zafi	zafo	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+3	's	es	ADP	_	_	5	case	_	_
+4	ti'	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	làstra	lastra	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	_
+6	'tti	mu	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes	5	nmod	_	_
+7	ce	ce	CCONJ	_	_	8	cc	_	_
+8	èkame	kanno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+9	na	na	SCONJ	_	_	10	mark	_	_
+10	pesi	petto	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	_	_
+11	mia'	ena	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	stofseddha	stofseddha	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Palumbo-Tale-1_20
+# text = èbbie ce mbike , pu citti lillì karassa , o ijo ecessu .
+# text_en = Through that small crack, the sun came and entered.
+1	èbbie	pianno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ce	ce	CCONJ	_	_	3	cc	_	mwe=1
+3	mbike	mbenno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	mwe=1
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	pu	apù	ADP	_	_	8	case	_	_
+6	citti	ciso	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
+7	lillì	lillò	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	8	amod	_	_
+8	karassa	karassa	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	o	o	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	ijo	ijo	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+12	ecessu	ecessu	ADV	_	_	3	advmod	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Palumbo-Tale-4_1
+# text = Io’ mia forà c’ isan diu 'dèrfia ;
+1	Io’	ime	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	_
+2	mia	ena	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	forà	forà	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+4	c’	ce	CCONJ	_	_	7	cc	_	_
+5	isan	ime	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+6	diu	dio	NUM	_	Case=Nom|Gender=Neut|Number=Plur	7	nummod	_	_
+7	'dèrfia	aderfi	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	3	conj	_	_
+8	;	;	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Palumbo-Tale-4_2
+# text = Enan ion bucceri c' enan io' ftechò poddhì , iche fta pedàcia .
+1	Enan	ena	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	3	nsubj	_	_
+2	ion	ime	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	bucceri	bucceri	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+4	c'	ce	CCONJ	_	_	7	cc	_	_
+5	enan	ena	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	7	nsubj	_	_
+6	io'	ime	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+7	ftechò	ftechò	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	_
+8	poddhì	poddhì	ADV	_	_	7	advmod	_	_
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	iche	echo	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	parataxis	_	_
+11	fta	fta	NUM	_	Case=Acc|Gender=Neut|NumType=Card	12	nummod	_	_
+12	pedàcia	pedaci	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	10	obj	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Palumbo-Tale-4_3
+# text = Pianni ce , mia' forà , èftase o pornò ce itta pedàcia telusa' tipo na fane .
+1	Pianni	pianno	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	0	root	_	_
+2	ce	ce	CCONJ	_	_	7	cc	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	mia'	ena	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	forà	forà	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	èftase	ftazo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+8	o	o	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	_
+9	pornò	pornò	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+10	ce	ce	CCONJ	_	_	13	cc	_	_
+11	itta	ciso	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	12	det	_	_
+12	pedàcia	pedaci	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	13	nsubj	_	_
+13	telusa'	telo	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
+14	tipo	tispo	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	13	obj	_	_
+15	na	na	SCONJ	_	_	16	mark	_	_
+16	fane	tròo	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl	_	_
+17	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Palumbo-Tale-4_4
+# text = 'En icha' tipo ce e mana pirte s te' cikore te' greste .
+1	'En	de	PART	_	Polarity=Neg	2	advmod	_	_
+2	icha'	echo	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	tipo	tispo	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	2	obj	_	_
+4	ce	ce	CCONJ	_	_	7	cc	_	_
+5	e	o	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	mana	mana	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+7	pirte	pao	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+8	s	es	ADP	_	_	10	case	_	_
+9	te'	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	cikore	cikora	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	7	obl	_	_
+11	te'	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	greste	crestu	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	10	amod	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Palumbo-Tale-4_5
+# text = Ce tù' pe u' ndrù : àmone s ton aderfo ssu , kame na su doi ìmiso ròtulo krea ka depoi tu to kutei .
+1	Ce	ce	CCONJ	_	_	3	cc	_	_
+2	tù'	evò	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+3	pe	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	u'	o	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	ndrù	andra	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	iobj	_	_
+6	:	:	PUNCT	_	_	3	punct	_	_
+7	àmone	pao	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+8	s	es	ADP	_	_	10	case	_	_
+9	ton	o	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	aderfo	aderfo	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	_
+11	ssu	mu	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	10	nmod	_	_
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	kame	kanno	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+14	na	na	SCONJ	_	_	16	mark	_	_
+15	su	evò	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	16	iobj	_	_
+16	doi	dio	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	ccomp	_	_
+17	ìmiso	ìmiso	NUM	_	Case=Acc|Gender=Neut|Number=Sing|NumType=Frac	18	nummod	_	_
+18	ròtulo	ròtulo	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	16	obj	_	_
+19	krea	krea	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	18	nmod	_	_
+20	ka	ka	SCONJ	_	_	24	mark	_	_
+21	depoi	depòi	ADV	_	_	24	advmod	_	_
+22	tu	evò	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	iobj	_	_
+23	to	evò	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	24	obj	_	_
+24	kutei	kutèo	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	_
+25	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Palumbo-Tale-4_6
+# text = Èbbie pirte cino , ftechò , kecci kecci , s ton aderfò ce este 'mpì s ti' porta - 'e tu baste .
+1	Èbbie	pianno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	pirte	pao	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+3	cino	cino	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	ftechò	ftechò	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	kecci	kecci	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	_
+8	kecci	kecci	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	flat	_	_
+9	,	,	PUNCT	_	_	7	punct	_	_
+10	s	es	ADP	_	_	12	case	_	_
+11	ton	o	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	aderfò	aderfò	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	_
+13	ce	ce	CCONJ	_	_	18	cc	_	_
+14	este	stèo	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	cop	_	_
+15	'mpì	ampì	ADP	_	ExtPos=ADP	18	case	_	_
+16	s	es	ADP	_	_	15	fixed	_	_
+17	ti'	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	porta	porta	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	conj	_	_
+19	-	-	PUNCT	_	_	22	punct	_	_
+20	'e	de	PART	_	Polarity=Neg	22	advmod	_	_
+21	tu	evò	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	iobj	_	_
+22	baste	bastèo	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+23	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Palumbo-Tale-4_7
+# text = Ce cosa ?! Ipe aderfò , m' in aria .
+1	Ce	ce	DET	_	Foreign=Yes|PronType=Int	2	det	_	_
+2	cosa	cosa	ADV	_	Foreign=Yes|PronType=Int	4	ccomp	_	_
+3	?!	?!	PUNCT	_	_	2	punct	_	_
+4	Ipe	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	aderfò	aderfò	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	m'	me	ADP	_	_	9	case	_	_
+8	in	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	aria	aria	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = Palumbo-Tale-4_8
+# text = Ipe cino : ìsela na mu dois ìmiso ròtulo krea .
+1	Ipe	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	cino	cino	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	_
+3	:	:	PUNCT	_	_	1	punct	_	_
+4	ìsela	telo	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+5	na	na	SCONJ	_	_	7	mark	_	_
+6	mu	evò	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
+7	dois	dio	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	_
+8	ìmiso	ìmiso	NUM	_	Case=Acc|Gender=Masc|Number=Sing|NumType=Frac	9	nummod	_	_
+9	ròtulo	ròtulo	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+10	krea	krea	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	nmod	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Palumbo-Tale-4_9
+# text = Ka depoi , toppu kanno kammian ghiurnatedda s' a dio , ipe .
+1	Ka	ka	SCONJ	_	_	10	mark	_	_
+2	depoi	depòi	ADV	_	_	10	advmod	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	toppu	toppu	SCONJ	_	_	5	mark	_	_
+5	kanno	kanno	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	_
+6	kammian	kanena	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	7	det	_	_
+7	ghiurnatedda	ghiurnateddha	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
+8	s'	evò	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	10	iobj	_	_
+9	a	evò	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	10	obj	_	_
+10	dio	dio	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	12	ccomp	_	_
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	ipe	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = Palumbo-Tale-4_10
+# text = Amo , amo ce a’ mme stein , àrtena 'en echo tipo , ipe .
+1	Amo	pao	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	14	ccomp	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	amo	pao	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+4	ce	ce	CCONJ	_	_	5	cc	_	_
+5	a’	afinno	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+6	mme	evò	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	_
+7	stein	stèo	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	xcomp	_	_
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	àrtena	àrtena	ADV	_	_	11	advmod	_	_
+10	'en	de	PART	_	Polarity=Neg	11	advmod	_	_
+11	echo	echo	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	_
+12	tipo	tispo	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	11	obj	_	_
+13	,	,	PUNCT	_	_	11	punct	_	_
+14	ipe	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+15	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = Palumbo-Tale-4_11
+# text = E gioveni pu iche 'cessu , o' dispiàcefse , c' ìpane : oh , màscia , ti èkames àscima .
+1	E	o	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	gioveni	giòveno	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	iobj	_	_
+3	pu	pu	PRON	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	4	obj	_	_
+4	iche	echo	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	acl:relcl	_	_
+5	'cessu	ecessu	ADV	_	_	4	advmod	_	_
+6	,	,	PUNCT	_	_	2	punct	_	_
+7	o'	evò	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	expl	_	_
+8	dispiàcefse	dispiacèo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	c'	ce	CCONJ	_	_	11	cc	_	_
+11	ìpane	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	_
+12	:	:	PUNCT	_	_	11	punct	_	_
+13	oh	oh	INTJ	_	_	18	discourse	_	_
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	màscia	màscia	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	18	vocative	_	_
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	ti	ti	ADV	_	PronType=Int	18	advmod	_	_
+18	èkames	kanno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	11	ccomp	_	_
+19	àscima	àscima	ADV	_	_	18	advmod	_	_
+20	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = Palumbo-Tale-4_12
+# text = O' fonàzome ce u dìomes utte sciunte ?
+1	O'	evò	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	fonàzome	foazo	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ce	ce	CCONJ	_	_	5	cc	_	_
+4	u	evò	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
+5	dìomes	dio	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+6	utte	uso	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	7	det	_	_
+7	sciunte	sciunta	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	5	obj	_	_
+8	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Palumbo-Tale-4_13
+# text = Oh , ka fonàsete o , kàmete brodo , ipe cino .
+1	Oh	oh	INTJ	_	_	4	discourse	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	ka	ka	SCONJ	_	_	4	mark	_	_
+4	fonàsete	fonazo	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	10	ccomp	_	_
+5	o	evò	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	kàmete	kanno	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+8	brodo	brodo	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+9	,	,	PUNCT	_	_	7	punct	_	_
+10	ipe	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	cino	cino	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	10	nsubj	_	_
+12	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = Palumbo-Tale-4_14
+# text = Piaka’ ce o’ fonàsane .
+1	Piaka’	pianno	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|VerbType=Mod|Voice=Act	0	root	_	_
+2	ce	ce	CCONJ	_	_	4	cc	_	_
+3	o’	evò	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	fonàsane	fonazo	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Palumbo-Tale-4_15
+# text = O' fonasa’ , fafsamu : ntoni , ntoni , do mmas ena' makkaluri .
+1	O'	evò	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	fonasa’	fonazo	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	fafsamu	fare	VERB	_	Foreign=Yes|Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	discourse	_	_
+5	:	:	PUNCT	_	_	2	punct	_	_
+6	ntoni	Ntoni	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	10	vocative	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	ntoni	Ntoni	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	6	conj	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	do	dio	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+11	mmas	evò	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	10	iobj	_	_
+12	ena'	ena	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	13	det	_	_
+13	makkaluri	makkaluri	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	_
+14	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = Palumbo-Tale-4_16
+# text = Ce u vala' citte sciunte , stèata pròbbio .
+1	Ce	ce	CCONJ	_	_	3	cc	_	_
+2	u	evò	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
+3	vala'	vaddho	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	citte	ciso	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	5	det	_	_
+5	sciunte	sciunta	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	3	obj	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	stèata	steo	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	5	reparandum	_	_
+8	pròbbio	pròbbio	ADV	_	_	7	advmod	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Palumbo-Tale-4_17
+# text = Pirte e jineka tu ce on ìvrike ndiavolao :
+1	Pirte	pao	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	e	o	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	jineka	jineka	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
+4	tu	mu	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod	_	_
+5	ce	ce	CCONJ	_	_	7	cc	_	_
+6	on	evò	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+7	ìvrike	vrisko	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+8	ndiavolao	ndiavolao	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	7	xcomp	_	_
+9	:	:	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Palumbo-Tale-4_18
+# text = ti echis ? Ipe .
+1	ti	tis	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	2	obj	_	_
+2	echis	echo	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	_
+3	?	?	PUNCT	_	_	2	punct	_	_
+4	Ipe	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = Palumbo-Tale-4_19
+# text = Na , de ti mò' kame aderfo mmu .
+1	Na	na	INTJ	_	_	3	discourse	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	de	torò	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ti	tis	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	6	obj	_	_
+5	mò'	evò	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+6	kame	kanno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+7	aderfo	aderfo	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+8	mmu	mu	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Palumbo-Tale-4_20
+# text = Ce is kùntefse .
+1	Ce	ce	CCONJ	_	_	3	cc	_	_
+2	is	evò	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
+3	kùntefse	kuntèo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Stomeo-O-petì-tu-ria_1
+# text = Isa’ mmia fforà trìs kiatère .
+1	Isa’	ime	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
+2	mmia	ena	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	fforà	forà	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	_
+4	trìs	tris	NUM	_	Gender=Fem|NumType=Card	5	nummod	_	_
+5	kiatère	kiatera	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Stomeo-O-petì-tu-ria_2
+# text = ‘Nan vrati istèane chatimmène s’ i llumèra na tremmànone ce kànnane ton deskòrso .
+1	‘Nan	ena	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
+2	vrati	vrati	DET	_	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	_
+3	istèane	steo	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
+4	chatimmène	chatimmeno	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
+5	s’	is	ADP	_	_	7	case	_	_
+6	i	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	llumèra	lumera	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	_
+8	na	na	SCONJ	_	_	9	mark	_	_
+9	tremmànone	tremmeno	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	xcomp	_	_
+10	ce	ce	CCONJ	_	_	11	cc	_	_
+11	kànnane	kanno	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+12	ton	o	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	deskòrso	deskorso	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	_
+14	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = Stomeo-O-petì-tu-ria_3
+# text = I mali ipe : “ Me ‘na mmetro ppannì indìnno olo ‘nna ssèrcito ” .
+1	I	o	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	mali	mea	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	ipe	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	:	:	PUNCT	_	_	3	punct	_	_
+5	“	“	PUNCT	_	_	10	punct	_	_
+6	Me	me	ADP	_	_	8	case	_	_
+7	‘na	ena	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	mmetro	metro	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	_
+9	ppannì	pannì	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	nmod	_	_
+10	indìnno	ndinno	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+11	olo	olo	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	13	det	_	_
+12	‘nna	ena	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	ssèrcito	esèrcito	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
+14	”	”	PUNCT	_	_	10	punct	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Stomeo-O-petì-tu-ria_4
+# text = I mendzàna ipe : “ Me ‘na tturnìsi kklostè to ratto ” .
+1	I	o	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	mendzàna	menzana	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	ipe	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	:	:	PUNCT	_	_	3	punct	_	_
+5	“	“	PUNCT	_	_	11	punct	_	_
+6	Me	me	ADP	_	_	8	case	_	_
+7	‘na	ena	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
+8	tturnìsi	turnisi	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	11	obl	_	_
+9	kklostè	klostì	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	8	nmod	_	_
+10	to	ivò	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+11	ratto	ratto	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+12	”	”	PUNCT	_	_	11	punct	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Stomeo-O-petì-tu-ria_5
+# text = I kèccia ipe : “ Ivò è nna kamo tria petìa me to petì tu ria
+1	I	o	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	kèccia	keccio	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	ipe	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	:	:	PUNCT	_	_	3	punct	_	_
+5	“	“	PUNCT	_	_	9	punct	_	_
+6	Ivò	ivò	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+7	è	è	AUX	_	ExtPos=AUX|VerbType=Mod	9	aux	_	_
+8	nna	na	SCONJ	_	_	7	fixed	_	_
+9	kamo	kanno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+10	tria	tris	NUM	_	Case=Acc|Gender=Neut|NumType=Card	11	nummod	_	_
+11	petìa	petì	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	9	obj	_	_
+12	me	me	ADP	_	_	14	case	_	_
+13	to	o	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	_	_
+14	petì	petì	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obl	_	_
+15	tu	o	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	ria	ria	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
+
+# sent_id = Stomeo-O-petì-tu-ria_6
+# text = ce cino mi tto tseri pos ta kanno ce depòi è nna me piài ” .
+1	ce	ce	CCONJ	_	_	5	cc	_	_
+2	cino	cino	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	nsubj	_	_
+3	mi	mi	ADV	_	Polarity=Neg	5	advmod	_	_
+4	tto	ivò	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	tseri	tsero	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	pos	pos	ADV	_	PronType=Int	8	advmod	_	_
+7	ta	ivò	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	8	obj	_	_
+8	kanno	kanno	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	_
+9	ce	ce	CCONJ	_	_	14	cc	_	_
+10	depòi	depòi	ADV	_	_	14	advmod	_	_
+11	è	è	AUX	_	ExtPos=AUX|VerbType=Mod	14	aux	_	_
+12	nna	na	SCONJ	_	_	11	fixed	_	_
+13	me	ivò	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	14	obj	_	_
+14	piài	pianno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	_
+15	”	”	PUNCT	_	_	5	punct	_	_
+16	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Stomeo-O-petì-tu-ria_7
+# text = Iavìkane i fate ce tes fatètsane .
+1	Iavìkane	javenno	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	i	o	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	fate	fata	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	_
+4	ce	ce	CCONJ	_	_	6	cc	_	_
+5	tes	ivò	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	6	obj	_	_
+6	fatètsane	fatèo	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Stomeo-O-petì-tu-ria_8
+# text = Iche mian ghitònissa , ipìrte s’ o petì tu ria ce tu èkame ton deskòrso pu kàmane ole cce trì .
+1	Iche	echo	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	mian	ena	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	ghitònissa	ghitònissa	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	ipìrte	pao	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+6	s’	is	ADP	_	_	8	case	_	_
+7	o	o	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
+8	petì	petì	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	_
+9	tu	o	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	ria	ria	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+11	ce	ce	CCONJ	_	_	13	cc	_	_
+12	tu	ivò	PRON	_	Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	iobj	_	_
+13	èkame	kanno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+14	ton	o	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	deskòrso	deskorso	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	obj	_	_
+16	pu	pu	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	17	obj	_	_
+17	kàmane	kanno	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	acl:relcl	_	_
+18	ole	olo	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Tot	17	nsubj	_	_
+19	cce	ce	CCONJ	_	_	20	cc	_	_
+20	trì	tris	NUM	_	Case=Nom|Gender=Fem|NumType=Card	18	nummod	_	_
+21	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Stomeo-O-petì-tu-ria_9
+# text = Tuso petì tu ria àrise fonàdzonta ti kkiatèra ti mmali ce tin aròtise ti deskòrso ikàmane s o vrati .
+1	Tuso	tuso	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	det	_	_
+2	petì	petì	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+3	tu	o	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	ria	ria	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	àrise	aridzo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	fonàdzonta	fonadzo	VERB	_	Aspect=Imp|VerbForm=Conv|Voice=Act	5	xcomp	_	_
+7	ti	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	kkiatèra	kiatera	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+9	ti	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	mmali	mea	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	8	amod	_	_
+11	ce	ce	CCONJ	_	_	13	cc	_	_
+12	tin	ivò	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+13	aròtise	rotò	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+14	ti	tis	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Int	15	det	_	_
+15	deskòrso	deskorso	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	16	obj	_	_
+16	ikàmane	kanno	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	ccomp	_	_
+17	s	is	ADP	_	_	19	case	_	_
+18	o	o	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	19	det	_	_
+19	vrati	vrati	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	16	obl	_	_
+20	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Stomeo-O-petì-tu-ria_10
+# text = Ce cini ipe : “ En ìchamo na fame ce lèamo lòja a okkiu .
+1	Ce	ce	CCONJ	_	_	3	cc	_	_
+2	cini	cino	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	_
+3	ipe	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	:	:	PUNCT	_	_	3	punct	_	_
+5	“	“	PUNCT	_	_	7	punct	_	_
+6	En	de	PART	_	Polarity=Neg	7	advmod	_	_
+7	ìchamo	echo	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+8	na	na	SCONJ	_	_	9	mark	_	_
+9	fame	tròo	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	xcomp	_	_
+10	ce	ce	CCONJ	_	_	11	cc	_	_
+11	lèamo	leo	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
+12	lòja	lòo	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	11	obj	_	_
+13	a	a	ADP	_	Foreign=Yes	14	case	_	_
+14	okkiu	okkiu	NOUN	_	ExtPos=ADV|Foreign=Yes|Gender=Masc|Number=Sing	11	advmod	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Stomeo-O-petì-tu-ria_11
+# text = Ivò ipa ka me mia ppichi ppannì su ndinno olo to ssèrcito ,
+1	Ivò	ivò	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	ipa	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ka	ka	SCONJ	_	_	9	mark	_	_
+4	me	me	ADP	_	_	6	case	_	_
+5	mia	ena	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	ppichi	pichi	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	_
+7	ppannì	pannì	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	nmod	_	_
+8	su	ivò	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	9	iobj	_	_
+9	ndinno	ndinno	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+10	olo	olo	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	12	det	_	_
+11	to	o	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	ssèrcito	esèrcito	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	_
+13	,	,	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Stomeo-O-petì-tu-ria_12
+# text = i sekunḍa ipe ka me ‘na tturnìsi kklostè to ratti ” .
+1	i	o	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	sekunḍa	sekundu	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Ord	3	nsubj	_	_
+3	ipe	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ka	ka	SCONJ	_	_	10	mark	_	_
+5	me	me	ADP	_	_	7	case	_	_
+6	‘na	ena	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
+7	tturnìsi	turnisi	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obl	_	_
+8	kklostè	klostì	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	7	nmod	_	_
+9	to	ivò	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	ratti	ratto	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+11	”	”	PUNCT	_	_	3	punct	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Stomeo-O-petì-tu-ria_13
+# text = Tos èdike mia borsa ssordu ce tes àrise essu .
+1	Tos	ivò	PRON	_	Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Prs	2	iobj	_	_
+2	èdike	dio	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	mia	ena	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	borsa	borsa	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+5	ssordu	sordo	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	4	nmod	_	_
+6	ce	ce	CCONJ	_	_	8	cc	_	_
+7	tes	ivò	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	8	obj	_	_
+8	àrise	aridzo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+9	essu	essu	ADV	_	_	8	advmod	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Stomeo-O-petì-tu-ria_14
+# text = Arte fònase ti kèccia ;
+1	Arte	arte	ADV	_	_	2	advmod	_	_
+2	fònase	fonadzo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ti	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	kèccia	keccio	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+5	;	;	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Stomeo-O-petì-tu-ria_15
+# text = cinì tis fènato àscimo na pì ton deskòrso pu iche kàmonta .
+1	cinì	cino	PRON	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	3	iobj	_	_
+2	tis	ivò	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+3	fènato	fènome	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	àscimo	àscimo	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	3	xcomp	_	_
+5	na	na	SCONJ	_	_	6	mark	_	_
+6	pì	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	csubj	_	_
+7	ton	o	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	deskòrso	deskorso	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
+9	pu	pu	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	11	obj	_	_
+10	iche	echo	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	aux	_	_
+11	kàmonta	kanno	VERB	_	Aspect=Perf|VerbForm=Conv|Voice=Act	8	acl:relcl	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Stomeo-O-petì-tu-ria_16
+# text = “ Ce ‘sù è nna pì’ , ce ‘sù è nna mu pì’ " , elle cino .
+1	“	“	PUNCT	_	_	6	punct	_	_
+2	Ce	ce	CCONJ	_	_	6	cc	_	_
+3	‘sù	isù	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+4	è	è	AUX	_	ExtPos=AUX|VerbType=Mod	6	aux	_	_
+5	nna	na	SCONJ	_	_	4	fixed	_	_
+6	pì’	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	16	ccomp	_	_
+7	,	,	PUNCT	_	_	13	punct	_	_
+8	ce	ce	CCONJ	_	_	13	cc	_	_
+9	‘sù	isù	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	_
+10	è	è	AUX	_	ExtPos=AUX|VerbType=Mod	13	aux	_	_
+11	nna	na	SCONJ	_	_	10	fixed	_	_
+12	mu	ivò	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	13	iobj	_	_
+13	pì’	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+14	"	"	PUNCT	_	_	6	punct	_	_
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	elle	leo	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+17	cino	cino	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	16	nsubj	_	_
+18	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = Stomeo-O-petì-tu-ria_17
+# text = Isa’ sfortsata na tu kuntètsi tikanè .
+1	Isa’	ime	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	_
+2	sfortsata	sfortsato	ADJ	_	Foreign=Yes|Gender=Fem|Number=Sing	0	root	_	_
+3	na	na	SCONJ	_	_	5	mark	_	_
+4	tu	ivò	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
+5	kuntètsi	kuntèo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	xcomp	_	_
+6	tikanè	tikanè	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	5	obj	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Stomeo-O-petì-tu-ria_18
+# text = “ Ivò ipa ti è nn’ aforàso tria petìa me sena sentsa n’ addhunettì’ pos ta aforàdzo , depòi è nna me piài’ jà jinèka ” .
+1	“	“	PUNCT	_	_	3	punct	_	_
+2	Ivò	ivò	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	ipa	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ti	ti	SCONJ	_	_	7	mark	_	_
+5	è	è	AUX	_	ExtPos=AUX|VerbType=Mod	7	aux	_	_
+6	nn’	na	SCONJ	_	_	5	fixed	_	_
+7	aforàso	aforadzo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+8	tria	tris	NUM	_	Case=Acc|Gender=Neut|NumType=Card	9	nummod	_	_
+9	petìa	petì	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	7	obj	_	_
+10	me	me	ADP	_	_	11	case	_	_
+11	sena	ivò	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	7	obl	_	_
+12	sentsa	sentsa	ADV	_	ExtPos=SCONJ	14	mark	_	_
+13	n’	na	SCONJ	_	_	12	fixed	_	_
+14	addhunettì’	addhunèome	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	7	advcl	_	_
+15	pos	pos	ADV	_	PronType=Int	17	advmod	_	_
+16	ta	ivò	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	17	obj	_	_
+17	aforàdzo	aforadzo	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	14	ccomp	_	_
+18	,	,	PUNCT	_	_	23	punct	_	_
+19	depòi	depòi	ADV	_	_	23	advmod	_	_
+20	è	è	AUX	_	ExtPos=AUX|VerbType=Mod	23	aux	_	_
+21	nna	na	SCONJ	_	_	20	fixed	_	_
+22	me	ivò	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	23	obj	_	_
+23	piài’	pianno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+24	jà	ja	ADP	_	_	25	case	_	_
+25	jinèka	jineka	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	23	obl	_	_
+26	”	”	PUNCT	_	_	3	punct	_	_
+27	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Stomeo-O-petì-tu-ria_19
+# text = Allòra cino e ttin àfike pleo na pai i essu , ti kkràese cci me cino “ .
+1	Allòra	allora	ADV	_	_	5	advmod	_	_
+2	cino	cino	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	nsubj	_	_
+3	e	de	PART	_	Polarity=Neg	5	advmod	_	_
+4	ttin	ivò	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	àfike	afinno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	pleo	pleo	ADV	_	_	5	advmod	_	_
+7	na	na	SCONJ	_	_	8	mark	_	_
+8	pai	pao	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	xcomp	_	_
+9	i	is	ADP	_	_	10	case	_	_
+10	essu	essu	ADV	_	_	8	advmod	_	_
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	ti	ivò	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+13	kkràese	kratenno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	_
+14	cci	ecì	ADV	_	_	13	advmod	_	_
+15	me	me	ADP	_	_	16	case	_	_
+16	cino	cino	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	13	obl	_	_
+17	“	“	PUNCT	_	_	5	punct	_	_
+18	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Stomeo-O-petì-tu-ria_20
+# text = Tin ìklise is mia kkàmbara ce tin àfike c’ essu .
+1	Tin	ivò	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	ìklise	klinno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	is	is	ADP	_	_	5	case	_	_
+4	mia	ena	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	kkàmbara	kàmbara	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	_
+6	ce	ce	CCONJ	_	_	8	cc	_	_
+7	tin	ivò	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	àfike	afinno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+9	c’	ecì	ADV	_	ExtPos=ADV	8	advmod	_	_
+10	essu	essu	ADV	_	_	9	fixed	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Stomeo-T'afitaci_1
+# text = Isa' mmia fforà mia mmana će 'na ććiùri ;
+1	Isa'	ime	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
+2	mmia	ena	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	fforà	forà	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	_
+4	mia	ena	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	mmana	mana	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+6	će	ce	CCONJ	_	_	8	cc	_	_
+7	'na	ena	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	ććiùri	ciuri	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	conj	_	_
+9	;	;	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Stomeo-T'afitaci_2
+# text = armàstisa' će aforàsane mia kkiaterèḍḍa .
+1	armàstisa'	armadzo	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+2	će	ce	CCONJ	_	_	3	cc	_	_
+3	aforàsane	aforadzo	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+4	mia	ena	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	kkiaterèḍḍa	kiatereddha	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Stomeo-T'afitaci_3
+# text = Tusi jaterèḍḍa , sekùndu jennìti , ìsane òrria ka en iχe aḍḍi sekundu ćini .
+1	Tusi	tuso	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	jaterèḍḍa	jatereddha	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	sekùndu	sekundu	SCONJ	_	_	5	mark	_	_
+5	jennìti	jennìome	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	8	advcl	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	ìsane	ime	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	_
+8	òrria	òrrio	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+9	ka	ka	SCONJ	_	_	11	mark	_	_
+10	en	de	PART	_	Polarity=Neg	11	advmod	_	_
+11	iχe	echo	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	_
+12	aḍḍi	addho	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	11	obj	_	_
+13	sekundu	sekundu	ADP	_	_	14	case	_	_
+14	ćini	cino	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	12	nmod	_	_
+15	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = Stomeo-T'afitaci_4
+# text = I mana će o ćiùri anćignàsa' nna ti mmàtone na agapìsi to Kkristò .
+1	I	o	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	mana	mana	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+3	će	ce	CCONJ	_	_	5	cc	_	_
+4	o	o	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	ćiùri	ciuri	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
+6	anćignàsa'	ancignò	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	nna	na	SCONJ	_	_	9	mark	_	_
+8	ti	ivò	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	iobj	_	_
+9	mmàtone	mattenno	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	xcomp	_	_
+10	na	na	SCONJ	_	_	11	mark	_	_
+11	agapìsi	agapò	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	ccomp	_	_
+12	to	o	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	Kkristò	Kristò	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	_
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Stomeo-T'afitaci_5
+# text = Tusi jaterèḍḍa ìpie panta s in iklisìa .
+1	Tusi	tuso	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	jaterèḍḍa	jatereddha	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	ìpie	pao	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	panta	panta	ADV	_	_	3	advmod	_	_
+5	s	is	ADP	_	_	7	case	_	_
+6	in	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	iklisìa	iklisìa	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Stomeo-T'afitaci_6
+# text = Motte ìsane dekattà χronò , tis apètane o ćiùri će ìmine me ti mmana .
+1	Motte	motte	SCONJ	_	_	4	mark	_	_
+2	ìsane	ime	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
+3	dekattà	dekattà	NUM	_	Case=Gen|Gender=Masc|NumType=Card	4	nummod	_	_
+4	χronò	chrono	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	7	advcl	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	tis	ivò	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	iobj	_	_
+7	apètane	apeteno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	o	o	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	ćiùri	ciuri	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+10	će	ce	CCONJ	_	_	11	cc	_	_
+11	ìmine	meno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
+12	me	me	ADP	_	_	14	case	_	_
+13	ti	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	mmana	mana	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	obl	_	_
+15	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = Stomeo-T'afitaci_7
+# text = Atteχèḍḍe !
+1	Atteχèḍḍe	attechuddhi	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
+2	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Stomeo-T'afitaci_8
+# text = idzùane poḍḍì s i mmisèrria , en ìχane ndè pu pesi ndè pu plosi .
+1	idzùane	dzoo	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	poḍḍì	poddhì	ADV	_	_	1	advmod	_	_
+3	s	is	ADP	_	_	5	case	_	_
+4	i	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	mmisèrria	misèrria	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obl	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	en	de	PART	_	Polarity=Neg	8	advmod	_	_
+8	ìχane	echo	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+9	ndè	ndè	CCONJ	_	_	11	cc	_	_
+10	pu	pu	ADV	_	PronType=Rel	11	advmod	_	_
+11	pesi	petto	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	ccomp	_	_
+12	ndè	ndè	CCONJ	_	_	14	cc	_	_
+13	pu	pu	ADV	_	PronType=Rel	14	advmod	_	_
+14	plosi	plonno	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	conj	_	_
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Stomeo-T'afitaci_9
+# text = I mana , atteχèḍḍa , anćìgnase na piài abbìlo , sekkòmu ka tis iχe apetànonta o andra .
+1	I	o	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	mana	mana	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	atteχèḍḍa	attechuddhi	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	anćìgnase	ancignò	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	na	na	SCONJ	_	_	8	mark	_	_
+8	piài	pianno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	xcomp	_	_
+9	abbìlo	abbìlo	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	_
+10	,	,	PUNCT	_	_	15	punct	_	_
+11	sekkòmu	sekkomu	SCONJ	_	ExtPos=SCONJ	15	mark	_	_
+12	ka	ka	SCONJ	_	_	11	fixed	_	_
+13	tis	ivò	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	iobj	_	_
+14	iχe	echo	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	aux	_	_
+15	apetànonta	apeteno	VERB	_	Aspect=Perf|VerbForm=Conv|Voice=Act	_	_	_	_
+16	o	o	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	andra	andra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
+18	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Stomeo-T'afitaci_10
+# text = Idzise 'na χχrono će poi apètane puru ćini .
+1	Idzise	dzoo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	'na	ena	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	χχrono	chrono	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	_
+4	će	ce	CCONJ	_	_	6	cc	_	_
+5	poi	poi	ADV	_	_	6	advmod	_	_
+6	apètane	apeteno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+7	puru	puru	ADV	_	_	8	advmod	_	_
+8	ćini	cino	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	6	nsubj	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Stomeo-T'afitaci_11
+# text = O ćiùri tin àfike atse dekattà χronò će i mana atse dekottò .
+1	O	o	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	ćiùri	ciuri	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	tin	ivò	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	àfike	afinno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	atse	atse	ADP	_	_	7	case	_	_
+6	dekattà	dekattà	NUM	_	Case=Gen|Gender=Masc|NumType=Card	7	nummod	_	_
+7	χronò	chrono	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	obl	_	_
+8	će	ce	CCONJ	_	_	10	cc	_	_
+9	i	o	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	mana	mana	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	conj	_	_
+11	atse	atse	ADP	_	_	12	case	_	_
+12	dekottò	dekottò	NUM	_	Case=Gen|Gender=Masc|NumType=Card	10	orphan	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = Stomeo-T'afitaci_12
+# text = Tusi pòvera Marìa ìmine fflitta će skunsulàta .
+1	Tusi	tuso	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+2	pòvera	pòvero	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
+3	Marìa	Maria	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+4	ìmine	meno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	fflitta	flitto	ADJ	_	Case=Nom|Foreign=Yes|Gender=Fem|Number=Sing	4	xcomp	_	_
+6	će	ce	CCONJ	_	_	7	cc	_	_
+7	skunsulàta	skunsulato	ADJ	_	Case=Nom|Foreign=Yes|Gender=Fem|Number=Sing	5	conj	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = Stomeo-T'afitaci_13
+# text = Cini , ka akàpigghe panta to Kkristò , anćìgnase na tto pprakalìsi će ipe :
+1	Cini	cino	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	9	nsubj	_	_
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	ka	ka	SCONJ	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	4	nsubj	_	_
+4	akàpigghe	akapò	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	acl:relcl	_	_
+5	panta	panta	ADV	_	_	4	advmod	_	_
+6	to	o	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Kkristò	Kristò	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+8	,	,	PUNCT	_	_	4	punct	_	_
+9	anćìgnase	ancignò	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	na	na	SCONJ	_	_	12	mark	_	_
+11	tto	ivò	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+12	pprakalìsi	prakalò	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	xcomp	_	_
+13	će	ce	CCONJ	_	_	14	cc	_	_
+14	ipe	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	_
+15	:	:	PUNCT	_	_	9	punct	_	_
+
+# sent_id = Stomeo-T'afitaci_14
+# text = " Kristè mu , pè mmu 'sù pos è pp' è nna kamo maneχèḍḍa mu ! " .
+1	"	"	PUNCT	_	_	5	punct	_	_
+2	Kristè	Kristò	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	_
+3	mu	mu	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	_
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	pè	leo	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	mmu	ivò	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+7	'sù	ivò	PRON	_	Case=Voc|Number=Sing|Person=2|PronType=Prs	5	vocative	_	_
+8	pos	pos	ADV	_	PronType=Int	5	ccomp	_	_
+9	è	ime	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
+10	pp'	pu	SCONJ	_	_	13	mark	_	_
+11	è	è	AUX	_	ExtPos=AUX|VerbType=Mod	13	aux	_	_
+12	nna	na	SCONJ	_	_	11	fixed	_	_
+13	kamo	kanno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	csubj	_	_
+14	maneχèḍḍa	manechuddhi	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	13	xcomp	_	_
+15	mu	mu	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	14	nmod	_	_
+16	!	!	PUNCT	_	_	5	punct	_	_
+17	"	"	PUNCT	_	_	5	punct	_	_
+18	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Stomeo-T'afitaci_15
+# text = Mian imèra ipe : " Ma , fio na pao na noso dio làχana " .
+1	Mian	ena	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	imèra	imera	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	_
+3	ipe	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	:	:	PUNCT	_	_	3	punct	_	_
+5	"	"	PUNCT	_	_	8	punct	_	_
+6	Ma	ma	INTJ	_	_	8	discourse	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	fio	fio	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+9	na	na	SCONJ	_	_	10	mark	_	_
+10	pao	pao	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
+11	na	na	SCONJ	_	_	12	mark	_	_
+12	noso	nonno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	10	xcomp	_	_
+13	dio	dio	NUM	_	Case=Acc|Gender=Neut|NumType=Card	14	nummod	_	_
+14	làχana	làchano	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	12	obj	_	_
+15	"	"	PUNCT	_	_	8	punct	_	_
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Stomeo-T'afitaci_16
+# text = Ipìrte ittòtsu , ivrice dio tsangùnu , dio morìćce , insomma dio smìmmata .
+1	Ipìrte	pao	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ittòtsu	ittotsu	ADV	_	_	1	advmod	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	ivrice	vrisko	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+5	dio	dio	NUM	_	Case=Acc|Gender=Masc|NumType=Card	6	nummod	_	_
+6	tsangùnu	tsanguni	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	4	obj	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	dio	dio	NUM	_	Case=Acc|Gender=Fem|NumType=Card	9	nummod	_	_
+9	morìćce	moriccia	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	6	conj	_	_
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	insomma	insomma	INTJ	_	_	13	discourse	_	_
+12	dio	dio	NUM	_	Case=Acc|Gender=Neut|NumType=Card	13	nummod	_	_
+13	smìmmata	smimma	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	6	parataxis	_	_
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Stomeo-T'afitaci_17
+# text = Dopu ìnose ta làχana , àfike ti ssakkètta će ivrìke dio tsilùḍḍia .
+1	Dopu	dopu	SCONJ	_	_	2	mark	_	_
+2	ìnose	nonno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	_
+3	ta	o	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	_
+4	làχana	làchano	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	àfike	afinno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	ti	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	ssakkètta	sakketta	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+9	će	ce	CCONJ	_	_	10	cc	_	_
+10	ivrìke	vrisko	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	_
+11	dio	dio	NUM	_	Case=Acc|Gender=Neut|NumType=Card	12	nummod	_	_
+12	tsilùḍḍia	tsiluddhi	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	10	obj	_	_
+13	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Stomeo-T'afitaci_18
+# text = Ipirte i essu će màretse ta làχàna .
+1	Ipirte	pao	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	i	is	ADP	_	_	3	case	_	_
+3	essu	essu	ADV	_	_	1	advmod	_	_
+4	će	ce	CCONJ	_	_	5	cc	_	_
+5	màretse	marèo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+6	ta	o	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	7	det	_	_
+7	làχàna	làchano	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	5	obj	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Stomeo-T'afitaci_19
+# text = Satte pu ste' pu ta patàrogghe , tis igghìke 'nan afìtaći amèsa essu :
+1	Satte	satte	SCONJ	_	ExtPos=SCONJ	3	mark	_	_
+2	pu	pu	SCONJ	_	_	1	fixed	_	_
+3	ste'	ste	VERB	_	VerbType=Mod	9	advcl	_	_
+4	pu	pu	SCONJ	_	_	6	mark	_	_
+5	ta	ivò	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	6	obj	_	_
+6	patàrogghe	pataronno	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	xcomp	_	_
+7	,	,	PUNCT	_	_	3	punct	_	_
+8	tis	ivò	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	iobj	_	_
+9	igghìke	ghenno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	'nan	ena	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	11	det	_	_
+11	afìtaći	afitaci	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+12	amèsa	amesa	ADV	_	_	13	case	_	_
+13	essu	essu	ADV	_	_	9	advmod	_	_
+14	:	:	PUNCT	_	_	9	punct	_	_
+
+# sent_id = Stomeo-T'afitaci_20
+# text = " Uh ! " - ipe - " tis ise isù ?
+1	"	"	PUNCT	_	_	2	punct	_	_
+2	Uh	uh	INTJ	_	_	6	ccomp	_	_
+3	!	!	PUNCT	_	_	2	punct	_	_
+4	"	"	PUNCT	_	_	2	punct	_	_
+5	-	-	PUNCT	_	_	6	punct	_	_
+6	ipe	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	-	-	PUNCT	_	_	6	punct	_	_
+8	"	"	PUNCT	_	_	9	punct	_	_
+9	tis	tis	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	6	ccomp	_	_
+10	ise	ime	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	_
+11	isù	ivò	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	_
+12	?	?	PUNCT	_	_	9	punct	_	_
+
+# sent_id = Morosi-Leggende-di-Martano-III_1
+# text = Mia forà ihe a ciuri ce mia mana .
+1	Mia	ena	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	forà	forà	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	_
+3	ihe	echo	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	a	ena	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	ciuri	ciuri	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+6	ce	ce	CCONJ	_	_	8	cc	_	_
+7	mia	ena	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	mana	mana	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	conj	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Morosi-Leggende-di-Martano-III_2
+# text = Irte o tànato c' epìre im mana c’ èfìche o ciuri m a tria pedìa .
+1	Irte	èrcome	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	o	o	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	tànato	tànato	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+4	c'	ce	CCONJ	_	_	5	cc	_	_
+5	epìre	perno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+6	im	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	mana	mana	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
+8	c’	ce	CCONJ	_	_	9	cc	_	_
+9	èfìche	afinno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+10	o	o	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	ciuri	ciuri	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	_
+12	m	me	ADP	_	_	15	case	_	_
+13	a	o	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	15	det	_	_
+14	tria	tris	NUM	_	Case=Acc|Gender=Neut|NumType=Card	15	nummod	_	_
+15	pedìa	pedì	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	9	obl	_	_
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Morosi-Leggende-di-Martano-III_3
+# text = Itta tria pedìa , ena ìgue Pati , o addos Antonài ce o addos Triannìscia , jatì ione fiacculiddo .
+1	Itta	ciso	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	3	det	_	_
+2	tria	tris	NUM	_	Case=Nom|Gender=Neut|NumType=Card	3	nummod	_	_
+3	pedìa	pedì	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	6	parataxis	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	ena	ena	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	6	nsubj	_	_
+6	ìgue	kuo	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	Pati	Pati	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	xcomp	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	o	o	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	addos	addo	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	6	conj	_	_
+11	Antonài	Antonài	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	orphan	_	_
+12	ce	ce	CCONJ	_	_	14	cc	_	_
+13	o	o	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	addos	addo	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	10	conj	_	_
+15	Triannìscia	Trianniscia	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	14	orphan	_	_
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	jatì	jatì	SCONJ	_	_	19	mark	_	_
+18	ione	ime	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	cop	_	_
+19	fiacculiddo	fiacculiddo	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	14	advcl	_	_
+20	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Morosi-Leggende-di-Martano-III_4
+# text = Èpese adìnato o ciuri , c' efònase to pedì to mea ce puru ton Antonài , c’ ipe :
+1	Èpese	peteno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	adìnato	adìnato	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	xcomp	_	_
+3	o	o	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	ciuri	ciuri	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	c'	ce	CCONJ	_	_	7	cc	_	_
+7	efònase	fonazo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+8	to	o	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	_
+9	pedì	pedì	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	_
+10	to	o	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	_
+11	mea	mea	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	9	amod	_	_
+12	ce	ce	CCONJ	_	_	15	cc	_	_
+13	puru	puru	ADV	_	_	15	advmod	_	_
+14	ton	o	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	Antonài	Antonài	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	7	conj	_	_
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	c’	ce	CCONJ	_	_	18	cc	_	_
+18	ipe	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
+19	:	:	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Morosi-Leggende-di-Martano-III_5
+# text = - Delàte , pedàcia mu , ti eho na sas eftiàso .
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	Delàte	èrcome	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	pedàcia	pedaci	NOUN	_	Case=Voc|Gender=Neut|Number=Plur	2	vocative	_	_
+5	mu	mu	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod	_	_
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	ti	ti	SCONJ	_	_	8	mark	_	_
+8	eho	echo	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	_
+9	na	na	SCONJ	_	_	11	mark	_	_
+10	sas	evò	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	11	obj	_	_
+11	eftiàso	ftiazo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	xcomp	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Morosi-Leggende-di-Martano-III_6
+# text = Evò eho dio vuja ce mian aghelàta :
+1	Evò	evò	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	eho	echo	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	dio	dio	NUM	_	Case=Acc|Gender=Neut|NumType=Card	4	nummod	_	_
+4	vuja	vui	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	_
+5	ce	ce	CCONJ	_	_	7	cc	_	_
+6	mian	ena	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	aghelàta	aghelata	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	conj	_	_
+8	:	:	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Morosi-Leggende-di-Martano-III_7
+# text = to zuguari to calò sas to dio esà , ce tin aghelàta tin fiacca doghetè ti ’s to Trianniscia -
+1	to	o	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
+2	zuguari	zuguari	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	_
+3	to	o	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+4	calò	calò	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	2	amod	_	_
+5	sas	evò	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	7	expl	_	_
+6	to	evò	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
+7	dio	dio	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	esà	evò	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	7	iobj	_	_
+9	,	,	PUNCT	_	_	15	punct	_	_
+10	ce	ce	CCONJ	_	_	15	cc	_	_
+11	tin	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	aghelàta	aghelata	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	obj	_	_
+13	tin	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	fiacca	fiacco	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	12	amod	_	_
+15	doghetè	dio	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+16	ti	evò	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	expl	_	_
+17	’s	es	ADP	_	_	19	case	_	_
+18	to	o	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	Trianniscia	Trianniscia	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	15	obl	_	_
+20	-	-	PUNCT	_	_	7	punct	_	_
+
+# sent_id = Morosi-Leggende-di-Martano-III_8
+# text = Epèsane o ciuri , ce cìni emìnane ma to zuguàri to calò , ce o Trianniscia ma tin aghelàda tin fiacca .
+1	Epèsane	peseno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	o	o	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ciuri	ciuri	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	ce	ce	CCONJ	_	_	7	cc	_	_
+6	cìni	cino	PRON	_	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
+7	emìnane	meno	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+8	ma	ma	ADP	_	_	10	case	_	_
+9	to	o	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	_
+10	zuguàri	zuguari	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	_
+11	to	o	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	det	_	_
+12	calò	calò	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	10	amod	_	_
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	ce	ce	CCONJ	_	_	16	cc	_	_
+15	o	o	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	Trianniscia	Trianniscia	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	_
+17	ma	ma	ADP	_	_	19	case	_	_
+18	tin	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	aghelàda	aghelada	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	16	orphan	_	_
+20	tin	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	fiacca	fiacco	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	19	amod	_	_
+22	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Morosi-Leggende-di-Martano-III_9
+# text = Ce ti ècame o Trianniscia ?
+1	Ce	ce	CCONJ	_	_	3	cc	_	_
+2	ti	tis	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	obj	_	_
+3	ècame	canno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	o	o	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Trianniscia	Trianniscia	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+6	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Morosi-Leggende-di-Martano-III_10
+# text = Èpiache c’ escòrcefse tin aghelàta c' embèlise to derma apànu 's a pirasso .
+1	Èpiache	pianno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	c’	ce	CCONJ	_	_	3	cc	_	_
+3	escòrcefse	scorcèo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+4	tin	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	aghelàta	aghelata	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+6	c'	ce	CCONJ	_	_	7	cc	_	_
+7	embèlise	embelò	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+8	to	o	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	_
+9	derma	derma	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	_
+10	apànu	apanu	ADP	_	ExtPos=ADP	13	case	_	_
+11	's	es	ADP	_	_	10	fixed	_	_
+12	a	ena	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	13	det	_	_
+13	pirasso	pirasso	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	_
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Morosi-Leggende-di-Martano-III_11
+# text = Efristi calà calà , ce on èdese m' a sfilazzo ’s to sòma tu
+1	Efristi	frio	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+2	calà	calà	ADV	_	_	1	advmod	_	_
+3	calà	calà	ADV	_	_	2	flat	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	ce	ce	CCONJ	_	_	7	cc	_	_
+6	on	evò	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+7	èdese	denno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+8	m'	ma	ADP	_	_	10	case	_	_
+9	a	ena	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	10	det	_	_
+10	sfilazzo	sfilazzo	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	_
+11	’s	es	ADP	_	_	13	case	_	_
+12	to	o	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	det	_	_
+13	sòma	soma	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	_
+14	tu	mu	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	nmod	_	_
+
+# sent_id = Morosi-Leggende-di-Martano-III_12
+# text = c’ ìbbie pratònta c' ècanne o tamburrieri .
+1	c’	ce	CCONJ	_	_	2	cc	_	_
+2	ìbbie	pao	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	pratònta	pratò	VERB	_	Aspect=Imp|VerbForm=Conv|Voice=Act	2	xcomp	_	_
+4	c'	ce	CCONJ	_	_	5	cc	_	_
+5	ècanne	canno	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+6	o	o	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	tamburrieri	tamburrieri	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Morosi-Leggende-di-Martano-III_13
+# text = Èftase ’s a canàli , pu stèane ce meràzane e ladri poddà turniscia .
+1	Èftase	ftazo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	’s	es	ADP	_	_	4	case	_	_
+3	a	ena	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+4	canàli	canali	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	pu	pu	ADV	_	PronType=Rel	7	advmod	_	_
+7	stèane	steo	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|VerbType=Mod|Voice=Act	4	acl:relcl	_	_
+8	ce	ce	CCONJ	_	_	9	cc	_	_
+9	meràzane	merazo	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
+10	e	o	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	ladri	ladro	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
+12	poddà	poddì	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Ind	13	det	_	_
+13	turniscia	turnisci	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	9	obj	_	_
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Morosi-Leggende-di-Martano-III_14
+# text = Cini cùsane to tamburri , c’ ipane :
+1	Cini	cino	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	2	nsubj	_	_
+2	cùsane	cuo	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	to	o	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+4	tamburri	tamburri	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	c’	ce	CCONJ	_	_	7	cc	_	_
+7	ipane	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+8	:	:	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Morosi-Leggende-di-Martano-III_15
+# text = - Fìnnome ta turniscia ti èrcutt’ e carbunnieri ce mas pèrnune ’s tin carcera –
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	Fìnnome	finno	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ta	o	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	_
+4	turniscia	turnisci	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	_
+5	ti	ti	SCONJ	_	_	6	mark	_	_
+6	èrcutt’	èrcome	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	advcl	_	_
+7	e	o	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	carbunnieri	carbunnieri	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+9	ce	ce	CCONJ	_	_	11	cc	_	_
+10	mas	evò	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	11	obj	_	_
+11	pèrnune	perno	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+12	’s	es	ADP	_	_	14	case	_	_
+13	tin	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	carcera	carcera	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	obl	_	_
+15	–	–	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Morosi-Leggende-di-Martano-III_16
+# text = Ce o Trianniscia ta èpîache ce jùrise èssu tu c’ èdifse ta turniscia s t’ adrèffia tu .
+1	Ce	ce	CCONJ	_	_	5	cc	_	_
+2	o	o	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Trianniscia	Trianniscia	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+4	ta	evò	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	5	obj	_	_
+5	èpîache	pianno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	ce	ce	CCONJ	_	_	7	cc	_	_
+7	jùrise	jurizo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+8	èssu	essu	ADV	_	_	7	advmod	_	_
+9	tu	mu	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod	_	_
+10	c’	ce	CCONJ	_	_	11	cc	_	_
+11	èdifse	difo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+12	ta	o	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	13	det	_	_
+13	turniscia	turnisci	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	11	obj	_	_
+14	s	es	ADP	_	_	16	case	_	_
+15	t’	o	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	16	det	_	_
+16	adrèffia	adreffi	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	11	obl	_	_
+17	tu	mu	PRON	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod	_	_
+18	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Morosi-Leggende-di-Martano-III_17
+# text = Ce t' adrèffia tu tù’ pane : - Capòs ècame , adrefàci ma ? –
+1	Ce	ce	CCONJ	_	_	6	cc	_	_
+2	t'	o	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	3	det	_	_
+3	adrèffia	adreffi	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	6	nsubj	_	_
+4	tu	mu	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod	_	_
+5	tù’	evò	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	_
+6	pane	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	:	:	PUNCT	_	_	6	punct	_	_
+8	-	-	PUNCT	_	_	10	punct	_	_
+9	Capòs	capòs	ADV	_	PronType=Int	10	advmod	_	_
+10	ècame	canno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	6	ccomp	_	_
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	adrefàci	adrefaci	NOUN	_	Case=Voc|Gender=Neut|Number=Sing	10	vocative	_	_
+13	ma	mu	PRON	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	12	nmod	_	_
+14	?	?	PUNCT	_	_	10	punct	_	_
+15	–	–	PUNCT	_	_	10	punct	_	_
+
+# sent_id = Morosi-Leggende-di-Martano-III_18
+# text = Ce cino ipe : - Escòrcefsa tin aghelàta mu , c’ èfrifsa to derma ce to pùlisa . -
+1	Ce	ce	CCONJ	_	_	3	cc	_	_
+2	cino	cino	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	_
+3	ipe	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	:	:	PUNCT	_	_	3	punct	_	_
+5	-	-	PUNCT	_	_	6	punct	_	_
+6	Escòrcefsa	scorcèo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+7	tin	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	aghelàta	aghelata	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+9	mu	mu	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	c’	ce	CCONJ	_	_	12	cc	_	_
+12	èfrifsa	frio	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	_
+13	to	o	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	_	_
+14	derma	derma	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	12	obj	_	_
+15	ce	ce	CCONJ	_	_	17	cc	_	_
+16	to	evò	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	obj	_	_
+17	pùlisa	pulò	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	_
+18	.	.	PUNCT	_	_	6	punct	_	_
+19	-	-	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Morosi-Leggende-di-Martano-III_19
+# text = - Evotìsane t’ adrèffia c' ipàne :
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	Evotìsane	votò	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	t’	o	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	_
+4	adrèffia	adreffi	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	_
+5	c'	ce	CCONJ	_	_	6	cc	_	_
+6	ipàne	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+7	:	:	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Morosi-Leggende-di-Martano-III_20
+# text = - Cànnome puru emi sappu ècame tuo ?
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	Cànnome	canno	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	puru	puru	ADV	_	_	4	advmod	_	_
+4	emi	evò	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+5	sappu	sappu	ADV	_	PronType=Rel	6	advmod	_	_
+6	ècame	canno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	_
+7	tuo	tuo	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	6	nsubj	_	_
+8	?	?	PUNCT	_	_	2	punct	_	_
+
