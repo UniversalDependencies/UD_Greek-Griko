@@ -885,34 +885,33 @@
 7	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = Stomeo-O-petì-tu-ria_18
-# text = “ Ivò ipa ti è nn’ aforàso tria petìa me sena sentsa n’ addhunettì’ pos ta aforàdzo , depòi è nna me piài’ jà jinèka ” .
+# text = “ Ivò ipa ti ènn’ aforàso tria petìa me sena sentsa n’ addhunettì’ pos ta aforàdzo , depòi è nna me piài’ jà jinèka ” .
 1	“	“	PUNCT	_	_	3	punct	_	_
 2	Ivò	ivò	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 3	ipa	leo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4	ti	ti	SCONJ	_	_	7	mark	_	_
-5	è	è	AUX	_	ExtPos=AUX|VerbType=Mod	7	aux	_	_
-6	nn’	na	SCONJ	_	_	5	fixed	_	_
-7	aforàso	aforadzo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
-8	tria	tris	NUM	_	Case=Acc|Gender=Neut|NumType=Card	9	nummod	_	_
-9	petìa	petì	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	7	obj	_	_
-10	me	me	ADP	_	_	11	case	_	_
-11	sena	ivò	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	7	obl	_	_
-12	sentsa	sentsa	ADV	_	ExtPos=SCONJ	14	mark	_	_
-13	n’	na	SCONJ	_	_	12	fixed	_	_
-14	addhunettì’	addhunèome	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	7	advcl	_	_
-15	pos	pos	ADV	_	PronType=Int	17	advmod	_	_
-16	ta	ivò	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	17	obj	_	_
-17	aforàdzo	aforadzo	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	14	ccomp	_	_
-18	,	,	PUNCT	_	_	23	punct	_	_
-19	depòi	depòi	ADV	_	_	23	advmod	_	_
-20	è	è	AUX	_	ExtPos=AUX|VerbType=Mod	23	aux	_	_
-21	nna	na	SCONJ	_	_	20	fixed	_	_
-22	me	ivò	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	23	obj	_	_
-23	piài’	pianno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
-24	jà	ja	ADP	_	_	25	case	_	_
-25	jinèka	jineka	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	23	obl	_	_
-26	”	”	PUNCT	_	_	3	punct	_	_
-27	.	.	PUNCT	_	_	3	punct	_	_
+4	ti	ti	SCONJ	_	_	6	mark	_	_
+5	ènn’	ènna	AUX	_	VerbType=Mod	6	aux	_	_
+6	aforàso	aforadzo	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+7	tria	tris	NUM	_	Case=Acc|Gender=Neut|NumType=Card	8	nummod	_	_
+8	petìa	petì	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	6	obj	_	_
+9	me	me	ADP	_	_	10	case	_	_
+10	sena	ivò	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	6	obl	_	_
+11	sentsa	sentsa	ADV	_	ExtPos=SCONJ	13	mark	_	_
+12	n’	na	SCONJ	_	_	11	fixed	_	_
+13	addhunettì’	addhunèome	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	6	advcl	_	_
+14	pos	pos	ADV	_	PronType=Int	16	advmod	_	_
+15	ta	ivò	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	16	obj	_	_
+16	aforàdzo	aforadzo	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	13	ccomp	_	_
+17	,	,	PUNCT	_	_	22	punct	_	_
+18	depòi	depòi	ADV	_	_	22	advmod	_	_
+19	è	è	AUX	_	ExtPos=AUX|VerbType=Mod	22	aux	_	_
+20	nna	na	SCONJ	_	_	19	fixed	_	_
+21	me	ivò	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	22	obj	_	_
+22	piài’	pianno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+23	jà	ja	ADP	_	_	24	case	_	_
+24	jinèka	jineka	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	22	obl	_	_
+25	”	”	PUNCT	_	_	3	punct	_	_
+26	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = Stomeo-O-petì-tu-ria_19
 # text = Allòra cino e ttin àfike pleo na pai i essu , ti kkràese cci me cino “ .
