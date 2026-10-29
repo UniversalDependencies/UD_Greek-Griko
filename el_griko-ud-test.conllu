@@ -1063,6 +1063,7 @@
 
 # sent_id = Stomeo-T'afitaci_9
 # text = I mana , atteχèḍḍa , anćìgnase na piài abbìlo , sekkòmu ka tis iχe apetànonta o andra .
+# validated_by = emanuela.pinna
 1	I	o	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	mana	mana	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
 3	,	,	PUNCT	_	_	4	punct	_	_
@@ -1077,7 +1078,7 @@
 12	ka	ka	SCONJ	_	_	11	fixed	_	_
 13	tis	ivò	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	iobj	_	_
 14	iχe	echo	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	aux	_	_
-15	apetànonta	apeteno	VERB	_	Aspect=Perf|VerbForm=Conv|Voice=Act	_	_	_	_
+15	apetànonta	apeteno	VERB	_	Aspect=Perf|VerbForm=Conv|Voice=Act	6	advcl	_	_
 16	o	o	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	andra	andra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
 18	.	.	PUNCT	_	_	6	punct	_	_
