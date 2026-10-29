@@ -288,7 +288,7 @@
 3	's	es	ADP	_	_	5	case	_	_
 4	ti'	o	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	làstra	lastra	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	_
-6	'tti	mu	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes	5	nmod	_	_
+6	'tti	mu	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod	_	_
 7	ce	ce	CCONJ	_	_	8	cc	_	_
 8	èkame	kanno	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
 9	na	na	SCONJ	_	_	10	mark	_	_
