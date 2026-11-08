@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>100</sentences><tokens>1262</tokens><words>1262</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>100</sentences><tokens>1262</tokens><words>1262</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="298" /><!-- o, ,, ce, ., evò, ena, leo, ivò, :, na, echo, cino, ime, pao, dio -->
+  <forms unique="516" /><!-- ,, ., ce, :, to, ipe, na, o, ti, tu, i, -, c', e, pu -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="15">
+    <tag name="ADJ">36</tag><!-- mea, attechuddhi, calò, fiacco, ftechò, kecci, keccio, òrio, adìnato, chatimmeno -->
+    <tag name="ADP">51</tag><!-- es, me, is, apù, ma, atse, a, ampì, apanu, ja -->
+    <tag name="ADV">52</tag><!-- essu, depòi, arte, ecessu, poddhì, pos, pu, puru, calà, ecì -->
+    <tag name="AUX">29</tag><!-- ime, ènna, steo, echo -->
+    <tag name="CCONJ">80</tag><!-- ce, ndè -->
+    <tag name="DET">159</tag><!-- o, ena, ciso, tuso, olo, tis, ce, kanena, poddì, sulo -->
+    <tag name="INTJ">7</tag><!-- oh, insomma, ma, na, uh -->
+    <tag name="NOUN">167</tag><!-- mana, ciuri, forà, kiatera, petì, ria, aghelata, deskorso, adreffi, chrono -->
+    <tag name="NUM">20</tag><!-- dio, tris, dekattà, fta, ìmiso, dekottò -->
+    <tag name="PART">7</tag><!-- de -->
+    <tag name="PRON">138</tag><!-- evò, ivò, cino, mu, ena, pu, tis, tispo, tuo, addo -->
+    <tag name="PROPN">15</tag><!-- Trianniscia, Kristò, Antonài, Ntoni, Ercina, Maria, Pati -->
+    <tag name="PUNCT">228</tag><!-- ,, ., :, -, ", ?, “, !, ”, ; -->
+    <tag name="SCONJ">44</tag><!-- na, ka, pu, ti, dopu, jatì, motte, mpena, satte, sekkomu -->
+    <tag name="VERB">229</tag><!-- leo, echo, pao, kanno, pianno, dio, afinno, canno, fonazo, vrisko -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="42">
+    <feat name="Aspect" value="Imp" upos="AUX,VERB">68</feat><!-- iche, dio, dìome, eho, este, icha', kanno, pianni, ìbbie, Cànnome -->
+    <feat name="Aspect" value="Perf" upos="VERB">162</feat><!-- ipe, pirte, àfike, ècame, ìpane, amo, anćìgnase, apètane, ipa, ipìrte -->
+    <feat name="Case" value="Acc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">301</feat><!-- to, ti, tin, ta, mia, ton, a, dio, ena', i' -->
+    <feat name="Case" value="Gen" upos="DET,NOUN,NUM,PRON">62</feat><!-- tu, mu, ria, tis, su, dekattà, i', is, mmu, ssu -->
+    <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,SCONJ">161</feat><!-- o, e, i, cino, cini, mana, tusi, Ivò, Trianniscia, mia -->
+    <feat name="Case" value="Voc" upos="NOUN,PRON,PROPN">7</feat><!-- ntoni, 'sù, Kristè, adrefàci, màscia, pedàcia -->
+    <feat name="Definite" value="Def" upos="DET">101</feat><!-- o, to, e, i, tin, ton, ti, ta, ti', tu -->
+    <feat name="Definite" value="Ind" upos="DET">37</feat><!-- mia, ena', a, mia', mian, ‘na, 'na, mmia, 'nan, ‘Nan -->
+    <feat name="ExtPos" value="ADP" upos="ADP">3</feat><!-- 'mpì, apànu, panu -->
+    <feat name="ExtPos" value="ADV" upos="ADV,NOUN">2</feat><!-- c’, okkiu -->
+    <feat name="ExtPos" value="SCONJ" upos="ADV,SCONJ">4</feat><!-- Satte, arte, sekkòmu, sentsa -->
+    <feat name="Foreign" value="Yes" upos="ADJ,ADP,ADV,DET,NOUN,VERB">8</feat><!-- Ce, a, cosa, fafsamu, fflitta, okkiu, sfortsata, skunsulàta -->
+    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,SCONJ">214</feat><!-- tin, i, mia, ti, e, i', mana, tes, ti', aghelàta -->
+    <feat name="Gender" value="Masc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">154</feat><!-- o, tu, cino, ton, ria, Trianniscia, ciuri, deskòrso, to, e -->
+    <feat name="Gender" value="Neut" upos="ADJ,DET,NOUN,NUM,PRON">132</feat><!-- to, ta, a, ena', dio, ti, tria, adrèffia, fato, o -->
+    <feat name="Mood" value="Imp" upos="VERB">14</feat><!-- amo, Delàte, a’, de, do, doghetè, fafsamu, fonàsete, kame, kàmete -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">227</feat><!-- ipe, iche, pirte, àfike, ion, ècame, ìpane, Isa’, anćìgnase, apètane -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,VERB">154</feat><!-- ta, tes, e, adrèffia, ole, pedàcia, turniscia, ìpane, a, dìome -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SCONJ,VERB">605</feat><!-- to, ipe, o, ti, tu, tin, mia, i, cino, i' -->
+    <feat name="NumType" value="Card" upos="NUM">17</feat><!-- dio, tria, dekattà, fta, dekottò, trì, trìs -->
+    <feat name="NumType" value="Frac" upos="NUM">2</feat><!-- ìmiso -->
+    <feat name="NumType" value="Ord" upos="ADJ">1</feat><!-- sekunḍa -->
+    <feat name="Person" value="1" upos="AUX,PRON,VERB">57</feat><!-- mu, Ivò, dio, dìome, eho, ipa, kamo, kanno, me, mmu -->
+    <feat name="Person" value="2" upos="AUX,PRON,VERB">37</feat><!-- su, amo, pì’, sas, ssu, ‘sù, 'sù, Delàte, addhunettì’, a’ -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">242</feat><!-- ipe, tu, iche, to, i', pirte, ta, tin, tis, àfike -->
+    <feat name="Polarity" value="Neg" upos="ADV,PART">8</feat><!-- en, 'en, 'e, e, mi -->
+    <feat name="Poss" value="Yes" upos="PRON">15</feat><!-- tu, mu, ssu, 'tti, ma, mmu, tti -->
+    <feat name="PronType" value="Art" upos="DET">138</feat><!-- o, to, e, i, mia, tin, ton, ena', a, ti -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">33</feat><!-- cino, cini, tusi, itta, tuo, ćini, Tuso, cinì, citte, citti -->
+    <feat name="PronType" value="Ind" upos="DET,PRON">14</feat><!-- tipo, addos, enan, aḍḍi, ena, kammian, mian, poddà, sula, tikanè -->
+    <feat name="PronType" value="Int" upos="ADV,DET,PRON">14</feat><!-- ti, pos, Capòs, Ce, cosa, tis -->
+    <feat name="PronType" value="Prs" upos="PRON">95</feat><!-- tu, to, mu, i', ta, tin, tis, Ivò, o', su -->
+    <feat name="PronType" value="Rel" upos="ADV,PRON,SCONJ">10</feat><!-- pu, ka, posses, sappu -->
+    <feat name="PronType" value="Tot" upos="DET,PRON">5</feat><!-- ole, olo -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">165</feat><!-- ipe, iche, pirte, àfike, ion, ècame, ìpane, Isa’, anćìgnase, apètane -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">76</feat><!-- amo, dio, dìome, eho, kamo, kanno, pianni, piài, pì’, Cànnome -->
+    <feat name="VerbForm" value="Conv" upos="VERB">6</feat><!-- apetànonta, fonàdzonta, klèonta, kàmonta, petonta, pratònta -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">241</feat><!-- ipe, iche, pirte, àfike, ion, ècame, ìpane, Isa’, amo, anćìgnase -->
+    <feat name="VerbForm" value="Inf" upos="VERB">3</feat><!-- pesi, plosi, stein -->
+    <feat name="VerbType" value="Mod" upos="AUX,VERB">12</feat><!-- ènna, pianni, Piaka’, ste', stèane, ènn’ -->
+    <feat name="Voice" value="Act" upos="AUX,VERB">243</feat><!-- ipe, iche, pirte, àfike, ion, ècame, ìpane, Isa’, amo, anćìgnase -->
+    <feat name="Voice" value="Mid" upos="VERB">7</feat><!-- Efristi, addhunettì’, armàstisa', fènato, jennìti, vresì, èrcutt’ -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="32">
+    <dep name="acl">1</dep>
+    <dep name="acl:relcl">7</dep>
+    <dep name="advcl">17</dep>
+    <dep name="advmod">51</dep>
+    <dep name="amod">14</dep>
+    <dep name="appos">2</dep>
+    <dep name="aux">9</dep>
+    <dep name="case">49</dep>
+    <dep name="cc">80</dep>
+    <dep name="ccomp">39</dep>
+    <dep name="conj">78</dep>
+    <dep name="cop">19</dep>
+    <dep name="csubj">2</dep>
+    <dep name="det">159</dep>
+    <dep name="discourse">7</dep>
+    <dep name="expl">8</dep>
+    <dep name="fixed">8</dep>
+    <dep name="flat">2</dep>
+    <dep name="iobj">30</dep>
+    <dep name="mark">40</dep>
+    <dep name="nmod">30</dep>
+    <dep name="nsubj">70</dep>
+    <dep name="nummod">19</dep>
+    <dep name="obj">104</dep>
+    <dep name="obl">45</dep>
+    <dep name="orphan">4</dep>
+    <dep name="parataxis">8</dep>
+    <dep name="punct">228</dep>
+    <dep name="reparandum">1</dep>
+    <dep name="root">100</dep>
+    <dep name="vocative">6</dep>
+    <dep name="xcomp">25</dep>
+  </deps>
+</treebank>
